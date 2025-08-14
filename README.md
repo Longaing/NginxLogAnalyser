@@ -16,7 +16,6 @@ Un script Bash pour analyser les fichiers de logs Nginx et extraire des statisti
 
 # Prérequis
 
-- Bash (v4.0+)
 - awk, sort, uniq, head, Linux
 - Un fichier de log Nginx au format standard
 

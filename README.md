@@ -21,19 +21,20 @@ Un script Bash pour analyser les fichiers de logs Nginx et extraire des statisti
 
 # Installation
 
-1. Téléchargez le script :
+1. Téléchargez le fichier :
 ```
-wget https://example.com/analyze_nginx.sh
-```
-2. Éxécuter
-
-```
-    chmod +x analyze_nginx.sh
+wget https://gist.githubusercontent.com/kamranahmedse/e66c3b9ea89a1a030d3b739eeeef22d0/raw/77fb3ac837a73c4f0206e78a236d885590b7ae35/nginx-access.log
 ```
 
-# Utilisation
+2. Rendre le fichier exécutable
 
 ```
-./analyze_nginx.sh
+    chmod +x nginx.sh
+```
+
+# Exécute
+
+```
+    ./nginx.sh
 
 ```
